@@ -1,88 +1,149 @@
-# :package_description
+# Awesome Design Productivity [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/:vendor_slug/:package_slug.svg?style=flat-square)](https://packagist.org/packages/:vendor_slug/:package_slug)
-[![GitHub Tests Action Status](https://img.shields.io/github/actions/workflow/status/:vendor_slug/:package_slug/run-tests.yml?branch=main&label=tests&style=flat-square)](https://github.com/:vendor_slug/:package_slug/actions?query=workflow%3Arun-tests+branch%3Amain)
-[![GitHub Code Style Action Status](https://img.shields.io/github/actions/workflow/status/:vendor_slug/:package_slug/fix-php-code-style-issues.yml?branch=main&label=code%20style&style=flat-square)](https://github.com/:vendor_slug/:package_slug/actions?query=workflow%3A"Fix+PHP+code+style+issues"+branch%3Amain)
-[![Total Downloads](https://img.shields.io/packagist/dt/:vendor_slug/:package_slug.svg?style=flat-square)](https://packagist.org/packages/:vendor_slug/:package_slug)
-<!--delete-->
+> A curated collection of the best **free** tools for designers, developers, creators, marketers, and productivity enthusiasts.
+
+Discover hand-picked tools that save time, improve workflows, and help you build better products—from code screenshots and resume builders to color palettes, typography, AI, SEO, and developer utilities.
+
+## ✨ What you'll find
+
+* 🎨 Design Tools
+* 💻 Developer Tools
+* 🤖 AI Tools
+* 🚀 Productivity Apps
+* ✍️ Writing & Text Utilities
+* 🌈 Colors & Gradients
+* 🖼️ Images & Icons
+* 🔤 Fonts & Typography
+* 📄 Resume & Career
+* 📱 QR & Business Cards
+* 🔍 SEO Tools
+* 🧪 Testing & Debugging
+* 📊 Analytics
+* ⚡ Performance
+* 🌐 APIs
+* 📚 Learning Resources
+* 🛠 Browser Utilities
+
 ---
-This repo can be used to scaffold a Laravel package. Follow these steps to get started:
 
-1. Press the "Use this template" button at the top of this repo to create a new repo with the contents of this package.
-2. Run "php ./configure.php" to run a script that will replace all placeholders throughout all the files.
-3. Have fun creating your package.
+## 💻 Developer Tools
+
+### Code & Debugging
+
+* **[Codeshot.io](https://codeshot.io/)** — Turn code snippets, terminal sessions, and logs into beautiful high-resolution images. Runs entirely in your browser.
+* **[Slugme.io](https://slugme.io/)** — Generate clean, SEO-friendly URL slugs from text in multiple languages.
+* **[Regex101](https://regex101.com/)** — Interactive regular expression tester with explanations and debugging.
+* **[JSON Formatter](https://jsonformatter.org/)** — Format, validate, and beautify JSON.
+* **[Transform.tools](https://transform.tools/)** — Convert between dozens of programming formats.
+* **[Carbon](https://carbon.now.sh/)** — Create beautiful code screenshots.
+* **[Can I Use](https://caniuse.com/)** — Browser compatibility reference.
+* **[Responsively App](https://responsively.app/)** — Responsive web development made easier.
+* **[Hoppscotch](https://hoppscotch.io/)** — Lightweight API development platform.
+* **[Excalidraw](https://excalidraw.com/)** — Sketch diagrams and system designs.
+
 ---
-<!--/delete-->
-This is where your description should go. Limit it to a paragraph or two. Consider adding a small example.
 
-## Support us
+## 💼 Career & Networking
 
-You can support us by [buying me a coffee](https://github.com/sponsors/:author_username) ☕️ .
+* **[Cviya.com](https://cviya.com/)** — ATS-friendly AI resume builder with beautiful PDF export.
+* **[CarteVisite.io](https://cartevisite.io/)** — Design professional business cards directly in your browser.
+* **[QrFast.io](https://qrfast.io/)** — Fast QR code generator with SVG and PNG export.
+* **[LinkedIn](https://www.linkedin.com/)** — Build your professional network.
+* **[Resume Worded](https://resumeworded.com/)** — Resume and LinkedIn optimization.
 
-## Installation
+---
 
-You can install the package via composer:
+## 🎨 Design & Visual Assets
 
-```bash
-composer require :vendor_slug/:package_slug
-```
+* **[Arabify.io](https://arabify.io/)** — Arabic calligraphy, typography, logos, and animations.
+* **[Khatly.com](https://khatly.com/)** — Browser-based Arabic typography studio.
+* **[Coolors](https://coolors.co/)** — Generate beautiful color palettes instantly.
+* **[Adobe Color](https://color.adobe.com/)** — Explore and create color themes.
+* **[Color Hunt](https://colorhunt.co/)** — Curated color palettes.
+* **[SVG Repo](https://www.svgrepo.com/)** — Thousands of free SVG icons.
+* **[unDraw](https://undraw.co/illustrations)** — Open-source illustrations.
+* **[Lucide](https://lucide.dev/)** — Beautiful open-source icons.
+* **[Google Fonts](https://fonts.google.com/)** — Free web fonts.
+* **[Figma Community](https://www.figma.com/community)** — UI kits, templates, and design resources.
 
-You can publish and run the migrations with:
+---
 
-```bash
-php artisan vendor:publish --tag=":package_slug-migrations"
-php artisan migrate
-```
+## 🤖 AI Tools
 
-You can publish the config file with:
+* ChatGPT
+* Claude
+* Gemini
+* Perplexity
+* Bolt.new
+* Lovable
+* v0
+* Cursor
+* GitHub Copilot
+* NotebookLM
 
-```bash
-php artisan vendor:publish --tag=":package_slug-config"
-```
+---
 
-This is the contents of the published config file:
+## ✍️ Writing & Productivity
 
-```php
-return [
-];
-```
+* **[Arabizi.io](https://arabizi.io/)** — Convert Arabizi into Arabic in real time.
+* **[WordCounter](https://wordcounter.net/)** — Count words and characters instantly.
+* **[DeepL](https://www.deepl.com/translator)** — High-quality translation.
+* **[Grammarly](https://www.grammarly.com/)** — Grammar and writing assistant.
+* **[Hemingway Editor](https://hemingwayapp.com/)** — Improve readability.
+* **[TinyWow](https://tinywow.com/)** — Free PDF and productivity tools.
 
-Optionally, you can publish the views using
+---
 
-```bash
-php artisan vendor:publish --tag=":package_slug-views"
-```
+## 🌍 SEO & Marketing
 
-## Usage
+* Google Search Console
+* Google Trends
+* Ahrefs Free Tools
+* Ubersuggest
+* Meta Tags
+* OpenGraph.xyz
+* XML Sitemap Generator
 
-```php
-$variable = new VendorName\Package();
-echo $variable->echoPhrase('Hello, VendorName!');
-```
+---
 
-## Testing
+## 🖼️ Images & Assets
 
-```bash
-composer test
-```
+* Unsplash
+* Pexels
+* Pixabay
+* Icons8
+* Storyset
+* Freepik
+* Remove.bg
+* TinyPNG
 
-## Changelog
+---
 
-Please see [CHANGELOG](CHANGELOG.md) for more information on what has changed recently.
+## ⚡ Performance
 
-## Contributing
+* Google Lighthouse
+* PageSpeed Insights
+* GTmetrix
+* WebPageTest
 
-Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
+---
 
-## Security Vulnerabilities
+## 📚 Learning
 
-Please review our security policy on how to report security vulnerabilities.
+* MDN Web Docs
+* freeCodeCamp
+* Roadmap.sh
+* DevDocs
+* W3Schools
 
-## Credits
+---
 
-- [:author_name](https://github.com/:author_username)
-- [All Contributors](../../contributors)
+## 🤝 Contributing
 
-## License
+Contributions are welcome!
 
-The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
+If you know an amazing free tool that helps developers, designers, creators, or entrepreneurs, feel free to open a Pull Request.
+
+## 📄 License
+
+MIT License.
