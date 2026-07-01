@@ -45,8 +45,7 @@ Discover hand-picked tools that save time, improve workflows, and help you build
 
 * **[Cviya.com](https://cviya.com/)** — A 100% free, ATS-friendly **AI resume builder**. Generate a professional CV in minutes with AI-assisted writing and download a clean PDF with zero watermarks.
 * **[CarteVisite.io](https://cartevisite.io/)** — A free online **business card generator** (créer une carte de visite en ligne). Design professional, double-sided cards in your browser and export print-ready HD files.
-* **[QrFast.io](https://qrfast.io/)** — A fast, privacy-focused **free QR code generator**. Create custom QR codes for URLs, WiFi, or vCards and download as vector SVG or PNG instantly.
-* **[Resume Worded](https://resumeworded.com/)** — AI-powered feedback on your resume and LinkedIn profile optimization.
+* **[QrFast.io](https://qrfast.io/)** — A fast, privacy-focused **free QR code generator**. Create custom QR codes for URLs, WiFi, or vCards and download as vector SVG or PNG instantly. See the [QR Code Engineering Guide](https://github.com/abdessamadbettal/qr-code-engineering-guide) for how it's built under the hood.
 
 ---
 
@@ -100,6 +99,12 @@ Discover hand-picked tools that save time, improve workflows, and help you build
 * **[PageSpeed Insights](https://pagespeed.web.dev/)** — Analyze your website's performance and Core Web Vitals on mobile and desktop.
 * **[Meta Tags](https://metatags.io/)** — Preview, edit, and generate your website's social media meta tags (Open Graph).
 * **[Ahrefs Free SEO Tools](https://ahrefs.com/free-seo-tools)** — A suite of free tools for keyword research, backlink checking, and website authority.
+
+---
+
+## 🔗 See Also
+* [Awesome Arabic Tools](https://github.com/abdessamadbettal/awesome-arabic-tools) — Arabic-web-specific tool list.
+* [Awesome Sites Web Utiles](https://github.com/abdessamadbettal/awesome-sites-web-utiles) — French-language equivalent of this list.
 
 ---
 
