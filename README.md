@@ -46,6 +46,7 @@ Discover hand-picked tools that save time, improve workflows, and help you build
 * **[Cviya.com](https://cviya.com/)** — A 100% free, ATS-friendly **AI resume builder**. Generate a professional CV in minutes with AI-assisted writing and download a clean PDF with zero watermarks.
 * **[CarteVisite.io](https://cartevisite.io/)** — A free online **business card generator** (créer une carte de visite en ligne). Design professional, double-sided cards in your browser and export print-ready HD files.
 * **[QrFast.io](https://qrfast.io/)** — A fast, privacy-focused **free QR code generator**. Create custom QR codes for URLs, WiFi, or vCards and download as vector SVG or PNG instantly. See the [QR Code Engineering Guide](https://github.com/abdessamadbettal/qr-code-engineering-guide) for how it's built under the hood.
+* **[SmartBizCalc](https://smartbizcalc.com/)** — 280+ free business calculators for small business owners and freelancers. Covers tax estimation, break-even analysis, insurance cost modeling, payroll tax, contractor pricing, and more. No sign-up required.
 
 ---
 
