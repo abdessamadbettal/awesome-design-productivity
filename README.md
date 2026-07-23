@@ -37,6 +37,7 @@ Discover hand-picked tools that save time, improve workflows, and help you build
 * **[Transform.tools](https://transform.tools/)** — Convert between dozens of programming formats (JSON to TS, SVG to JSX, etc.).
 * **[Can I Use](https://caniuse.com/)** — Up-to-date browser support tables for front-end web technologies.
 * **[Responsively App](https://responsively.app/)** — A must-have dev tool for responsive web development across multiple device sizes simultaneously.
+* **[8ma Quick Transfer](https://t.8ma.co/)** — A free browser-based large-file transfer tool for computers and phones. Share by link, QR code, or 8-character pickup code with no signup or installation.
 
 ---
 
