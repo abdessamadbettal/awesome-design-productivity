@@ -35,6 +35,7 @@ Discover hand-picked tools that save time, improve workflows, and help you build
 * **[Regex101](https://regex101.com/)** — Interactive regular expression tester with real-time explanations and debugging.
 * **[JSON Formatter](https://jsonformatter.org/)** — Format, validate, and beautify JSON data securely in the browser.
 * **[Transform.tools](https://transform.tools/)** — Convert between dozens of programming formats (JSON to TS, SVG to JSX, etc.).
+* **[All Tools Verse](https://alltoolsverse.com/)** - A collection of 1,000+ free browser tools for code, data conversion, files, images, text, and calculations. No signup required.
 * **[Can I Use](https://caniuse.com/)** — Up-to-date browser support tables for front-end web technologies.
 * **[Responsively App](https://responsively.app/)** — A must-have dev tool for responsive web development across multiple device sizes simultaneously.
 
