@@ -37,6 +37,8 @@ Discover hand-picked tools that save time, improve workflows, and help you build
 * **[Can I Use](https://caniuse.com/)** — Up-to-date browser support tables for front-end web technologies.
 * **[Responsively App](https://responsively.app/)** — A must-have dev tool for responsive web development across multiple device sizes simultaneously.
 
+* **[Payload Components](https://www.payload-components.xyz/)** — An MIT registry and CLI with 67 typed Payload CMS blocks for Payload v3 + Next.js 15/16; installs owned source and automates Pages, renderer, types, and admin import-map wiring.
+
 ---
 
 ## 💼 Career & Business
