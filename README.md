@@ -36,6 +36,7 @@ Discover hand-picked tools that save time, improve workflows, and help you build
 * **[Transform.tools](https://transform.tools/)** — Convert between dozens of programming formats (JSON to TS, SVG to JSX, etc.).
 * **[Can I Use](https://caniuse.com/)** — Up-to-date browser support tables for front-end web technologies.
 * **[Responsively App](https://responsively.app/)** — A must-have dev tool for responsive web development across multiple device sizes simultaneously.
+* **[8ma Quick Transfer](https://t.8ma.co/en/?from=github-awesome-design-productivity)** — A free, no-sign-up browser tool for peer-to-peer transfers of large files and folders. Desktop Chrome and Edge support files up to 200 GB and folders with up to 20,000 files; both sides stay online.
 
 ---
 
