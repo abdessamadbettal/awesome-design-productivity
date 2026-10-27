@@ -60,6 +60,7 @@ Discover hand-picked tools that save time, improve workflows, and help you build
 * **[Color Hunt](https://colorhunt.co/)** — A free and open platform for color inspiration with thousands of trendy hand-picked palettes.
 * **[Lucide](https://lucide.dev/)** — A beautiful, consistent, and open-source icon toolkit.
 * **[SVG Repo](https://www.svgrepo.com/)** — Download over 500,000+ free SVG vectors and icons for commercial use.
+* **[Design Details](https://designdetails.io/)** — A free website-design reference library with full-page captures, motion recordings, typography, color, and section breakdowns; no signup required.
 
 ---
 
