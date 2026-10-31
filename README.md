@@ -130,6 +130,7 @@ Discover hand-picked tools that save time, improve workflows, and help you build
 
 * **[split.tools](https://split.tools/)** — **Split files locally**: slice images into grids, pull pages from PDFs, cut audio on the waveform, and clip video on a timeline. Batch export, nothing uploaded.
 * **[Squoosh](https://squoosh.app/)** — Compress and convert images with a live before/after comparison, from the Google Chrome team.
+* **[Quick Image Kit](https://quickimagekit.com/compress-image?utm_source=github&utm_medium=awesome_list&utm_campaign=design_productivity)** — Compress, resize, convert and crop images locally in the browser, with exact-KB presets and a GATE 2027 photo/signature workflow; source files never leave the device.
 * **[PDF24 Tools](https://tools.pdf24.org/)** — A free suite for merging, splitting, converting, and compressing PDFs.
 * **[Stirling PDF](https://stirlingpdf.io/)** — An open-source, self-hostable toolkit covering 50+ PDF operations.
 
