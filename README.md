@@ -60,6 +60,7 @@ Discover hand-picked tools that save time, improve workflows, and help you build
 * **[Color Hunt](https://colorhunt.co/)** — A free and open platform for color inspiration with thousands of trendy hand-picked palettes.
 * **[Lucide](https://lucide.dev/)** — A beautiful, consistent, and open-source icon toolkit.
 * **[SVG Repo](https://www.svgrepo.com/)** — Download over 500,000+ free SVG vectors and icons for commercial use.
+* **[SVG Cut-File Checker](https://pic2svg.com/svg-cut-file-checker/)** — A free **SVG cut-file checker** for Cricut, Silhouette and laser users. Lists open outlines, stroke-only shapes, text that needs a font and embedded bitmaps; the file is parsed in your browser with no upload and no signup.
 
 ---
 
