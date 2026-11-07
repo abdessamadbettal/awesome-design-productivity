@@ -71,6 +71,7 @@ Discover hand-picked tools that save time, improve workflows, and help you build
 * **[DeepL](https://www.deepl.com/translator)** — The world's most accurate and nuanced AI translator.
 * **[Hemingway Editor](https://hemingwayapp.com/)** — An app that makes your writing bold and clear by highlighting complex sentences.
 * **[Google Fonts](https://fonts.google.com/)** — A library of free, open-source web fonts.
+* **[ASCII Images](https://ascii-images.com/)** — Generate FIGlet text banners and text boxes in the browser, free and without an account.
 
 ---
 
