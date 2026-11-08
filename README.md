@@ -58,6 +58,7 @@ Discover hand-picked tools that save time, improve workflows, and help you build
 * **[Typing Words GIF](https://typingwordsgif.com/)** — A free **typing text GIF maker**. Type words, customize style, and export an animated GIF entirely in the browser with no signup.
 * **[Coolors](https://coolors.co/)** — A super-fast color palette generator. Press the spacebar to instantly get beautiful color combinations.
 * **[Color Hunt](https://colorhunt.co/)** — A free and open platform for color inspiration with thousands of trendy hand-picked palettes.
+* **[Calculation Hub Luminance Calculator](https://calculation-hub.com/colors/luminance-brightness)** — Compare sRGB relative luminance, weighted luma, and HSP brightness, with formulas and contrast calculations. Free without signup.
 * **[Lucide](https://lucide.dev/)** — A beautiful, consistent, and open-source icon toolkit.
 * **[SVG Repo](https://www.svgrepo.com/)** — Download over 500,000+ free SVG vectors and icons for commercial use.
 
