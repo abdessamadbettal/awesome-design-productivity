@@ -128,6 +128,7 @@ Discover hand-picked tools that save time, improve workflows, and help you build
 ## 📄 Files & PDF
 *Split, compress, and convert files in the browser.*
 
+* **[Free PDF Converter](https://free-pdf-converter.web-free.site/)** — Browser-based PDF toolkit (merge, split, compress, convert and related tools); processing runs locally in the browser.
 * **[split.tools](https://split.tools/)** — **Split files locally**: slice images into grids, pull pages from PDFs, cut audio on the waveform, and clip video on a timeline. Batch export, nothing uploaded.
 * **[Squoosh](https://squoosh.app/)** — Compress and convert images with a live before/after comparison, from the Google Chrome team.
 * **[PDF24 Tools](https://tools.pdf24.org/)** — A free suite for merging, splitting, converting, and compressing PDFs.
