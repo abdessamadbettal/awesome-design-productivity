@@ -44,6 +44,7 @@ Discover hand-picked tools that save time, improve workflows, and help you build
 
 * **[Cviya.com](https://cviya.com/)** — A 100% free, ATS-friendly **AI resume builder**. Generate a professional CV in minutes with AI-assisted writing and download a clean PDF with zero watermarks.
 * **[CarteVisite.io](https://cartevisite.io/)** — A free online **business card generator** (créer une carte de visite en ligne). Design professional, double-sided cards in your browser and export print-ready HD files.
+* **[Free QR Code Creator](https://free-qr-code-creator.web-free.site/)** — Creates styled QR codes and barcodes and can scan codes in the browser with no sign-up.
 * **[QrFast.io](https://qrfast.io/)** — A fast, privacy-focused **free QR code generator**. Create custom QR codes for URLs, WiFi, or vCards and download as vector SVG or PNG instantly. See the [QR Code Engineering Guide](https://github.com/abdessamadbettal/qr-code-engineering-guide) for how it's built under the hood.
 * **[Nutilz CD Calculator](https://nutilz.com/cd-calculator)** — A free **certificate of deposit calculator**. Enter your deposit amount, term, and APY to see maturity value and total interest earned, with support for compounding frequency. No sign-up required.
 
