@@ -64,6 +64,7 @@ Discover hand-picked tools that save time, improve workflows, and help you build
 ---
 
 ## ✍️ Text & Typography
+*Writing assistants and text formatting utilities.*
 
 * **[Arabizi.io](https://arabizi.io/)** — A real-time **Arabizi to Arabic phonetic keyboard**. Type in Latin letters and it instantly converts to perfectly formatted Arabic script with automatic vowels.
 * **[Free Word Counter](https://free-word-counter.web-free.site/)** — Counts words, characters, sentences, paragraphs, reading time and keyword density in the browser; text is not uploaded.
@@ -71,6 +72,8 @@ Discover hand-picked tools that save time, improve workflows, and help you build
 * **[DeepL](https://www.deepl.com/translator)** — The world's most accurate and nuanced AI translator.
 * **[Hemingway Editor](https://hemingwayapp.com/)** — An app that makes your writing bold and clear by highlighting complex sentences.
 * **[Google Fonts](https://fonts.google.com/)** — A library of free, open-source web fonts.
+
+---
 
 ## 🤖 AI Assistants
 *Top artificial intelligence tools for productivity.*
