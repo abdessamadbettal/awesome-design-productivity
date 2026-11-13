@@ -130,6 +130,7 @@ Discover hand-picked tools that save time, improve workflows, and help you build
 
 * **[split.tools](https://split.tools/)** — **Split files locally**: slice images into grids, pull pages from PDFs, cut audio on the waveform, and clip video on a timeline. Batch export, nothing uploaded.
 * **[Squoosh](https://squoosh.app/)** — Compress and convert images with a live before/after comparison, from the Google Chrome team.
+* **[PixelArtHive Pixel Art Upscaler](https://pixelarthive.com/pixel-art-upscaler)** — Enlarge pixel-art images with nearest-neighbor scaling, directly in the browser with no upload or sign-up.
 * **[PDF24 Tools](https://tools.pdf24.org/)** — A free suite for merging, splitting, converting, and compressing PDFs.
 * **[Stirling PDF](https://stirlingpdf.io/)** — An open-source, self-hostable toolkit covering 50+ PDF operations.
 
